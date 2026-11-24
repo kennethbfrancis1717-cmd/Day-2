@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    padding: 30px;
+}
+ 
+h1 {
+    color: darkblue;
+}
+ 
+button {
+    padding: 10px;
+    cursor: pointer;
+}
