@@ -1,0 +1,11 @@
+{
+  "name": "beginner-project",
+  "version": "1.0.0",
+  "description": "My First Node.js Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kenneth",
+  "license": "MIT"
+}
